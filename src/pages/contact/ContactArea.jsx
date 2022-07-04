@@ -6,9 +6,9 @@ function ContactArea() {
 	<section className="contact-area pt-120 pb-120">
         <div className="container">
           <div className="row">
-            {/* <div className="col-lg-6">
+            <div className="col-lg-6">
               <div id="contact-map" />
-            </div> */}
+            </div>
             <div className="col-lg-6 pl-45">
               <div className="section-title title-style-three mb-20">
                 <h2>CONTACT US ABOUT <span>PRESS</span></h2>

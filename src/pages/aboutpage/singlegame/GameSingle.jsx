@@ -3,7 +3,7 @@ import HeaderTwo from '../../../components/header/HeaderTwo';
 import Footer from '../../../components/footer/Footer';
 import Breadcrumb from './Breadcrumb';
 import SingleArea from './SingleArea';
-import ReleaseGame from './ReleaseGame'
+// import ReleaseGame from './ReleaseGame'
 
 import { useParams } from 'react-router-dom';
 import Games from '../upcoming/games.json'
@@ -26,7 +26,7 @@ function GameSingle () {
 	genre={FOUND.Genres}
 	desc={FOUND.desc}
 	/>
-	<ReleaseGame/>
+	{/* <ReleaseGame/> */}
 	</main>
 	<Footer/>
 	</>
