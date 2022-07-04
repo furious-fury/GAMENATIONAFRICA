@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Obinna Benedict Onochie",
+        "position": "CHIEF EXECUTIVE OFFICER",
+        "img": "assets/img/team/obinna.jpg"
+    },
+    {
+        "name": "Akinyemi Arabambi",
+        "position": "CHIEF INFORMATION OFFICER",
+        "img": "assets/img/team/viper.jpeg"
+    },
+    {
+        "name": "Akon Egbaoghene",
+        "position": "CHIEF TECHNOLOGY OFFICER",
+        "img": "assets/img/team/fury.jpg"
+    },
+    {
+        "name": "Daghware Bright",
+        "position": "CHIEF STRATEGY OFFICER",
+        "img": "assets/img/team/bright.jpeg"
+    },
+    {
+        "name": "Arinze Okoye Tolumia",
+        "position": "CHIEF OPERATIONS OFFICER",
+        "img": "assets/img/team/bones.jpeg"
+    },
+    {
+        "name": "Ujobolo Olusegun",
+        "position": "CHIEF COMPLIANCE OFFICER",
+        "img": "assets/img/team/mad-bear.jpg"
+    },
+    {
+        "name": "Dattapriya Thanasparan",
+        "position": "CHIEF ANALYTICS OFFICER",
+        "img": "assets/img/team/priya.jpg"
+    },
+    {
+        "name": "Odysseus Vrakas",
+        "position": "CHIEF PLATORM ORGANISER",
+        "img": "assets/img/team/odysseus.jpeg"
+    },
+    {
+        "name": "Cecil Edwin Harry",
+        "position": "CHIEF EVENT PLANNER",
+        "img": "assets/img/team/cecil.jpeg"
+    },
+    {
+        "name": "Eniwajunimi Jesutomisin Awodipe",
+        "position": "CHIEF DIGITAL OFFICER",
+        "img": "assets/img/team/sharam.jpeg"
+    }
+]

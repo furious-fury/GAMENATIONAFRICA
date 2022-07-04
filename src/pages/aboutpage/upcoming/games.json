@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "pubg mobile",
+      "slug": "pubg-mobile",
+      "img": "/assets/img/images/upcoming/pubg_upcoming.jpg",
+      "platform": "MOBILE",
+      "sRating": "4.3/5",
+      "Genres": "Battle royale",
+      "desc": "PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole."
+    },
+    {
+      "id": 2,
+      "name": "call of duty mobile",
+      "slug": "call-of-duty-mobile",
+      "img": "/assets/img/images/upcoming/codm_upcoming.jpg",
+      "platform": "MOBILE",
+      "sRating": "4.7/5",
+      "Genres": "Battle royale",
+      "desc": "Call of Duty: Mobile is a free-to-play first-person shooter developed by TiMi Studios and published by Activision for Android and iOS. It was released on October 1, 2019."
+    },
+    {
+      "id": 3,
+      "name": "apex legends",
+      "slug": "apex-legends",
+      "img": "/assets/img/images/upcoming/apex_upcoming.jpg",
+      "platform": "PC / XBOX / PLAYSTATION",
+      "sRating": "9/10",
+      "Genres": "Battle royale",
+      "desc": "Apex Legends is an online multiplayer battle royale game featuring squads of three players using pre-made characters (called 'Legends'), similar to those of hero shooters. Each character in the squad has a unique design, personality, and abilities that provide different playstyles to the team."
+    },
+    {
+      "id": 4,
+      "name": "efootball 2022",
+      "slug": "efootball-2022",
+      "img": "/assets/img/images/upcoming/pes_upcoming.jpg",
+      "platform": "MOBILE",
+      "sRating": "5/10",
+      "Genres": "Football simulation",
+      "desc": "eFootball PES 2021 is a football simulation video game developed by PES Productions and published by Konami for Microsoft Windows, PlayStation 4, Xbox One, Android and IOS"
+    },
+    {
+      "id": 5,
+      "name": "pubg mobile lite",
+      "slug": "pubg-mobile-lite",
+      "img": "/assets/img/images/upcoming/pubgL_upcoming.jpg",
+      "platform": "MOBILE",
+      "sRating": "3.6/5",
+      "Genres": "Battle royale",
+      "desc": "PUBG MOBILE LITE uses Unreal Engine 4 and builds on the original PUBG MOBILE gameplay to create action-packed Arena Mode matches lasting 10 minutes or less. The streamlined game requires only 600 MB of free space and 1 GB of RAM to run smoothly."
+    },
+    {
+      "id": 6,
+      "name": "call of duty warzone",
+      "slug": "call-of-duty-warzone",
+      "img": "/assets/img/images/upcoming/warzone_upcoming.jpg",
+      "platform": "PC / XBOX / PLAYSTATION",
+      "sRating": "9/10",
+      "Genres": "Battle royale",
+      "desc": "Call of Duty: Warzone is a free-to-play battle royale video game released on March 10, 2020, for PlayStation 4, Xbox One, and Microsoft Windows. A version for the PlayStation 5 and Xbox Series X/S has been announced to be released in 2022, with a mobile version also in development as of 2022."
+    },
+    {
+      "id": 7,
+      "name": "valorant",
+      "slug": "valorant",
+      "img": "/assets/img/images/upcoming/valorant_upcoming.jpg",
+      "platform": "PC / XBOX / PLAYSTATION",
+      "sRating": "9/10",
+      "Genres": "First person shooter",
+      "desc": "Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities. Valorant is free to play and can run on most low end pc so join the fun."
+    },
+    {
+      "id": 8,
+      "name": "league of legends",
+      "slug": "league-of-legends",
+      "img": "/assets/img/images/upcoming/lol_upcoming.jpg",
+      "platform": "MOBILE",
+      "sRating": "3.7/5",
+      "Genres": "Platform game, Indie game",
+      "desc": "League of Legends: Wild Rift is here for mobile and console! Team up with friends and test your skills in 5v5 MOBA combat. All the high-skill competition you crave, designed especially for mobile and console with revamped controls and streamlined matches."
+    },
+    {
+      "id": 9,
+      "name": "garena free fire",
+      "slug": "garena-free-fire",
+      "img": "/assets/img/images/upcoming/fFire_upcoming.jpg",
+      "platform": "MOBILE",
+      "sRating": "3.9/5",
+      "Genres": "Battle royale",
+      "desc": "Garena Free Fire, also known as Free Fire, is a battle royale game, developed by Garena and published by Garena for Android and iOS. It became the most downloaded mobile game globally in 2019. The game received the award for the 'Best Popular Vote Game' by the Google Play Store in 2019"
+    },
+    {
+      "id": 10,
+      "name": "brawlhalla",
+      "slug": "brawlhalla",
+      "img": "/assets/img/images/upcoming/brawlhalla_upcoming.jpeg",
+      "platform": "MOBILE / PC / XBOX / PLAYSTATION",
+      "sRating": "3.9/5",
+      "Genres": "Indie game",
+      "desc": "If you’re looking to unwind with friends, or if you’re aiming to carve your name into the pillars of the Brawlhalla Power Rankings, you can play Brawlhalla however and whenever you want. Play locally with friends, fight in chaotic Free-For-All matches online and offline, team up for 2v2 battles, or climb the Ranked ladder to Platinum and beyond. There’s a little something for everyone."
+    },
+    {
+      "id": 11,
+      "name": "new state mobile",
+      "slug": "new-state-mobile",
+      "img": "/assets/img/images/upcoming/Nstate_upcoming.jpg",
+      "platform": "MOBILE",
+      "sRating": "3.9/5",
+      "Genres": "Battle royale",
+      "desc": "NEW STATE Mobile is a futuristic style multiplayer online battle royale video game developed by PUBG Studios and published by Krafton."
+    },
+    {
+      "id": 12,
+      "name": "grand theft auto 5",
+      "slug": "grand-theft-auto-5",
+      "img": "/assets/img/images/upcoming/gta5_upcoming.jpg",
+      "platform": "PC / XBOX / PLAYSTATION",
+      "sRating": "9/10",
+      "Genres": "Action-adventure game",
+      "desc": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth instalment overall."
+    },
+    {
+      "id": 13,
+      "name": "battlefield 2042",
+      "slug": "battlefield-2042",
+      "img": "/assets/img/images/upcoming/battlefield_upcoming.jpg",
+      "platform": "PC / XBOX / PLAYSTATION",
+      "sRating": "5/10",
+      "Genres": "First-person shooter",
+      "desc": "Battlefield 2042 is a 2021 first-person shooter game developed by DICE and published by Electronic Arts. It is the twelfth main installment in the Battlefield series and was released on November 19, 2021."
+    },
+    {
+      "id": 14,
+      "name": "the division 2",
+      "slug": "the-division-2",
+      "img": "/assets/img/images/upcoming/division2_upcoming.jpg",
+      "platform": "PC / XBOX / PLAYSTATION",
+      "sRating": "9.6/10",
+      "Genres": "Third-person shooter",
+      "desc": "Tom Clancy's The Division 2 is an online-only action role-playing video game developed by Massive Entertainment and published by Ubisoft."
+    },
+    {
+      "id": 15,
+      "name": "fortnite",
+      "slug": "fortnite",
+      "img": "/assets/img/images/upcoming/fortnite_upcoming.jpg",
+      "platform": "PC / XBOX / PLAYSTATION",
+      "sRating": "9.6/10",
+      "Genres": "Battle royale",
+      "desc": "Fortnite is an online video game developed by Epic Games and released in 2017. It is available in three distinct game mode versions that otherwise share the same general gameplay and game engine."
+    },
+    {
+      "id": 16,
+      "name": "rogue company",
+      "slug": "rogue-company",
+      "img": "/assets/img/images/upcoming/Rcompany_upcoming.jpg",
+      "platform": "PC / XBOX / PLAYSTATION",
+      "sRating": "7/10",
+      "Genres": "Third-person shooter",
+      "desc": "Rogue Company is a free-to-play multiplayer tactical third-person hero shooter video game developed by First Watch Games and published by Hi-Rez Studios."
+    },
+    {
+      "id": 17,
+      "name": "stumble guys",
+      "slug": "stumble-guys",
+      "img": "/assets/img/images/upcoming/stumble_upcoming.png",
+      "platform": "MOBILE",
+      "sRating": "9/10",
+      "Genres": "Indie game",
+      "desc": "Stumble Guys is a massively multiplayer party knockout game with up to 32 players online intention to struggle through levels round after round of escalating chaos, until one victor remains! If you fall, just start again and run. Join the endless running fun!"
+    },
+    {
+      "id": 18,
+      "name": "street fighter iv",
+      "slug": "street-fighter-iv",
+      "img": "/assets/img/images/upcoming/sFighter_upcoming.png",
+      "platform": "MOBILE",
+      "sRating": "6/10",
+      "Genres": "Fighting game",
+      "desc": "A new warrior has entered the ring! Take control of 25 world warriors and test your mettle against players from around the world. Street Fighter 4: Champion Edition perfects the winning gameplay formula by offering higher resolution graphics, three new characters (Poison, Ibuki and Dudley)."
+    }
+  ]
+  
