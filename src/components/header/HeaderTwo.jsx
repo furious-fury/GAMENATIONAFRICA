@@ -99,7 +99,7 @@ export default function HeaderTwo() {
                   <div className="main-menu  menu-style-two">
                     <nav>
                       <div className="logo">
-                        <Link to="/"><img src="/assets/img/logo/logo.png" alt="Logo" /></Link>
+                        <Link to="/"><img src="https://fieryper.sirv.com/gamenation/logo/logo.png?format=webp&webp.fallback=jpg" alt="Logo" /></Link>
                       </div>
                       <div className="navbar-wrap push-menu d-none d-lg-flex">
                         <ul className="navigation">
@@ -117,8 +117,8 @@ export default function HeaderTwo() {
                  <div className="mobile-menu">
                   <nav className="menu-box">
                     <div className="close-btn"><i className="fas fa-times" /></div>
-                    <div className="nav-logo"><Link to="/"><img src="/assets/img/logo/logo.png" alt="" title='true' /></Link>
-                    </div>
+                    {/* <div className="nav-logo"><Link to="/"><img src="/assets/img/logo/logo.png" alt="" title='true' /></Link>
+                    </div> */}
                     <div className="menu-outer">
                     </div>
                     <div className="social-links">

@@ -41,11 +41,13 @@ function App() {
         <Contact/>
         </ScrollToTopRoute>
 
-        <ScrollToTopRoute exact={true} path='/event-details'>
+        <ScrollToTopRoute exact={true} path='/team/:teamID'>
         <Overview/>
         </ScrollToTopRoute>
 
-        <ScrollToTopRoute path="*" component={Error} />
+        <ScrollToTopRoute path="*" exact={true}>
+        <Error/>
+        </ScrollToTopRoute>
         
      </Switch>
      </Router>

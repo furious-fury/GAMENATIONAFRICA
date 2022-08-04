@@ -36,7 +36,7 @@ function GamesArea() {
                      <div className="featured-game-content featured-game-overlay-content">
                        <h4><Link to="/#">{data.name}</Link></h4>
                        <div className="featured-game-meta">
-                         <span><i className="fas fa-gamepad" /> {data.platform}</span>
+                         {/* <span><i className="fas fa-gamepad" /> {data.platform}</span> */}
                        <Link to="/#" className="btn btn-style-two">Learn More</Link>
                        </div>
                      </div>

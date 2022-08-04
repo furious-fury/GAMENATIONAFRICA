@@ -1,4 +1,5 @@
 import React from 'react';
+import Map from './map';
 
 function ContactArea() {
 
@@ -7,15 +8,15 @@ function ContactArea() {
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
-              <div id="contact-map" />
+              <Map/>
             </div>
             <div className="col-lg-6 pl-45">
               <div className="section-title title-style-three mb-20">
-                <h2>CONTACT US ABOUT <span>PRESS</span></h2>
+                <h2>FOR MORE INFO? <span>CONTACT US</span></h2>
               </div>
               <div className="contact-info-list mb-40">
                 <ul>
-                  <li><i className="fas fa-map-marker-alt" />42 Adisa Bashua street, Surelere, Lagos</li>
+                  <li><i className="fas fa-map-marker-alt" />42 Adisa Bashua street, Surelere. Lagos, Nigeria</li>
                   <li><i className="fas fa-envelope" />contact@gamenationafrica.com</li>
                 </ul>
               </div>

@@ -1,6 +1,7 @@
 [
     {
         "name": "pubg mobile",
+        "slug": "pubg-mobile",
         "img": "assets/img/images/latest_match_pubg.jpg",
         "platform": "MOBILE",
         "sRating": "4.3/5",

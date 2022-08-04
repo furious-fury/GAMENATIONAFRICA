@@ -5,7 +5,7 @@ const ErrorArea = () => {
     <section className="contact-area pt-120 pb-120">
         <div className="container">
             <div className="col-lg-6">
-              <img src="./assets/img/images/404.png" alt="404" className='error-404' style={{width: '500px'}}/>
+            <img src="https://fieryper.sirv.com/gamenation/images/404.png" alt="" className='error-404'/>
             </div>
         </div>
       </section>

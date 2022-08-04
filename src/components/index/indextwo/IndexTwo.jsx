@@ -14,16 +14,14 @@ function IndexTwo(){
     
 
         <>
-         {/* header-area */}
           <HeaderTwo/>
-        {/* main-area */}
+
         <main>
           <SliderTwo/>
           <NewGamesArea/>
           <CtaArea/>
           <GamesArea/>
         </main>
-        {/* main-area-end */}
         <Footer/>
         </>
 	)
