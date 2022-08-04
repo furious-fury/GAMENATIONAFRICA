@@ -33,7 +33,7 @@ function Footer() {
               <div className="col-xl-5 col-lg-4 col-md-6">
                 <div className="footer-widget mb-50">
                   <div className="footer-logo mb-35">
-                    <a href="/"><img src="assets/img/logo/logo.png" alt="" /></a>
+                    <a href="/"><img src="https://fieryper.sirv.com/gamenation/logo/logo.png" alt="" /></a>
                   </div>
                   <div className="footer-text">
                     <div className="footer-contact">
@@ -79,8 +79,8 @@ function Footer() {
               </div>
             </div>
           </div>
-          <div className="footer-fire"><img src="assets/img/images/footer_fire.png" alt="" /></div>
-          <div className="footer-fire footer-fire-right"><img src="assets/img/images/footer_fire.png" alt="" /></div>
+          <div className="footer-fire"><img src="https://fieryper.sirv.com/gamenation/images/footer_fire.png" alt="" /></div>
+          <div className="footer-fire footer-fire-right"><img src="https://fieryper.sirv.com/gamenation/images/footer_fire.png" alt="" /></div>
         </div>
         <div className="copyright-wrap">
           <div className="container">

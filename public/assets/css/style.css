@@ -234,7 +234,7 @@ label {
 	position: absolute;
 	left: 0;
 	bottom: -5px;
-	background-image: url(../img/images/btn_overlay.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/images/btn_overlay.png?format=webp&webp.fallback=png');
 	width: 100%;
 	height: 55px;
 	background-repeat: no-repeat;
@@ -389,7 +389,7 @@ label {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-image: url(../img/images/offer_count_bg.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/images/offer_count_bg.png?format=webp&webp.fallback=png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -507,7 +507,7 @@ ul.minicart .cart-content a:hover,
 	color: #1c1121;
 }
 .main-header {
-	background-image: url(../img/bg/header_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenationbg/header_bg.jpg?format=webp&webp.fallback=jpg');
 	background-position: right center;
 	background-size: cover;
 	position: relative;
@@ -613,7 +613,7 @@ ul.minicart .cart-content a:hover,
 .menu-style-two {
 	padding: 28px 30px !important;
 	border-radius: 0 0 14px 14px !important;
-	background-image: url(../img/bg/header_bg.jpg) !important;
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/header_bg.jpg?format=webp&webp.fallback=jpg') !important;
 	background-position: right center !important;
 	background-size: cover !important;
 	position: relative !important;
@@ -703,7 +703,7 @@ ul.minicart .cart-content a:hover,
     top: 0;
     width: 100%;
     z-index: 99;
-    background-image: url(../img/bg/header_bg.jpg);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/header_bg.jpg?format=webp&webp.fallback=jpg');
     -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -729,7 +729,7 @@ ul.minicart .cart-content a:hover,
 	margin-left: 10px;
 }
 .t-header-top-area .header-top-social ul li a {
-    background-image: url(../img/bg/header_social_bg.jpg);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/header_social_bg.jpg?format=webp&webp.fallback=jpg');
     display: block;
     width: 38px;
     height: 32px;
@@ -789,7 +789,7 @@ ul.minicart .cart-content a:hover,
 	z-index: 9;
 }
 .third-header-bg .bg {
-    background-image: url(../img/bg/h3_header_bg.jpg);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/h3_header_bg.jpg?format=webp&webp.fallback=jpg');
     position: absolute;
     left: 0;
     top: 0;
@@ -846,7 +846,7 @@ ul.minicart .cart-content a:hover,
 	display:flex;
 }
 .header-bottom-bg {
-    background-image: url(../img/bg/header_bottom_bg.png);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/header_bottom_bg.png?format=webp&webp.fallback=png');
     position: absolute;
     left: 0;
     bottom: -5px;
@@ -870,10 +870,10 @@ ul.minicart .cart-content a:hover,
 	top: 0;
 }
 .third-header-bg .sticky-menu {
-    background-image: url(../img/bg/h3_header_bg.jpg);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/h3_header_bg.jpg?format=webp&webp.fallback=jpg');
 }
 .header-style-four .header-top-area {
-    background-image: url(../img/bg/fourth_header_top_bg.jpg);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/fourth_header_top_bg.jpg?format=webp&webp.fallback=jpg');
     background-position: center;
     background-size: cover;
     padding: 22px 0;
@@ -1038,17 +1038,17 @@ ul.minicart .cart-content a:hover,
 
 /* 4. Breadcrumb */
 .breadcrumb-bg {
-	background-image: url(../img/bg/breadcrumb_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/breadcrumb_bg.jpg?format=webp&webp.fallback=jpg');
 	padding-top: 275px;
 	padding-bottom: 170px;
 	background-position: center;
 	background-size: cover;
 }
 .s-breadcrumb-bg {
-	background-image: url(../img/bg/breadcrumb_bg02.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/breadcrumb_bg02.jpg?format=webp&webp.fallback=jpg');
 }
 .third-breadcrumb-bg {
-	background-image: url(../img/bg/breadcrumb_bg03.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/breadcrumb_bg03.jpg?format=webp&webp.fallback=jpg');
 }
 .breadcrumb-content h2 {
 	font-size: 70px;
@@ -1294,7 +1294,7 @@ ul.minicart .cart-content a:hover,
 	left: auto;
 }
 .third-banner-bg {
-    background-image: url(../img/slider/third_banner_bg.jpg);
+    background-image: url('https://fieryper.sirv.com/gamenation/slider/third_banner_bg.jpg?format=webp&webp.fallback=jpg');
     background-position: center center;
     background-size: cover;
     position: relative;
@@ -1422,13 +1422,13 @@ ul.minicart .cart-content a:hover,
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	background-image: url(../img/images/title_bar.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/images/title_bar.png?format=webp&webp.fallback=png');
 	width: 270px;
 	height: 13px;
 	background-repeat: no-repeat;
 }
 .title-style-three::before {
-	background-image: url(../img/images/title_bar02.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/images/title_bar02.png?format=webp&webp.fallback=png');
 }
 .title-style-three h2 {
 	color: #1c1121;
@@ -1493,7 +1493,7 @@ ul.minicart .cart-content a:hover,
 	z-index: -1;
 }
 .third-about-bg {
-    background-image: url(../img/bg/third_about_bg.jpg);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/third_about_bg.jpg?format=webp&webp.fallback=jpg');
     background-position: center;
 	background-size: cover;
 	position: relative;
@@ -1559,7 +1559,7 @@ ul.minicart .cart-content a:hover,
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../img/images/section_line.png);
+    background-image: url('https://fieryper.sirv.com/gamenation/images/section_line.png?format=webp&webp.fallback=png');
     width: 120px;
     height: 8px;
     margin: 0 auto;
@@ -1571,7 +1571,7 @@ ul.minicart .cart-content a:hover,
     position: relative;
 }
 .my-info-box-top {
-    background-image: url(../img/bg/my_info_box_bg.png);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/my_info_box_bg.png?format=webp&webp.fallback=png');
     min-height: 48px;
     width: 100%;
     background-position: center;
@@ -1688,7 +1688,7 @@ ul.minicart .cart-content a:hover,
 	z-index: 2;
 }
 .released-game-item-bg {
-	background-image: url(../img/bg/released_slide_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/released_slide_bg.jpg?format=webp&webp.fallback=jpg');
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -1731,7 +1731,7 @@ ul.minicart .cart-content a:hover,
 }
 .released-game-content h4::before {
 	content: "";
-	background-image: url(../img/images/released_game_brush.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/images/released_game_brush.png?format=webp&webp.fallback=png');
 	position: absolute;
 	right: -50px;
 	top: 0;
@@ -1830,7 +1830,7 @@ ul.minicart .cart-content a:hover,
 	margin: 0 auto;
 }
 .game-mange-bg {
-	background-image: url(../img/bg/game_manage_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/game_manage_bg.jpg?format=webp&webp.fallback=jpg');
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -2024,7 +2024,7 @@ ul.minicart .cart-content a:hover,
 	transform: translateY(0px);
 }
 .featured-game-bg {
-	background-image: url(../img/bg/featured_game_bg.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/featured_game_bg.png?format=webp&webp.fallback=png');
 	background-position: center;
 	background-size: cover;
 	position: absolute;
@@ -2051,7 +2051,7 @@ ul.minicart .cart-content a:hover,
 
 /* 12. Cta */
 .cta-bg {
-	background-image: url(../img/bg/cta_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/cta_bg.jpg?format=webp&webp.fallback=jpg');
 	padding: 120px 0;
 	background-position: center;
 	background-size: cover;
@@ -2170,7 +2170,7 @@ ul.minicart .cart-content a:hover,
 	color: #1c1121;
 }
 .latest-match-bg {
-	background-image: url(../img/bg/latest_match_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/latest_match_bg.jpg?format=webp&webp.fallback=jpg');
 	background-position: center;
 	background-size: cover;
 }
@@ -2260,7 +2260,7 @@ ul.minicart .cart-content a:hover,
 	font-size: 15px;
 }
 .team-bg {
-    background-image: url(../img/bg/third_team_bg.jpg);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/third_team_bg.jpg?format=webp&webp.fallback=jpg');
     background-position: bottom center;
     background-size: cover;
     padding: 110px 0 90px;
@@ -2271,7 +2271,7 @@ ul.minicart .cart-content a:hover,
     z-index: 1;
 }
 .third-team-content .main-bg {
-    background-image: url(../img/bg/team_content_bg.png);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/team_content_bg.png?format=webp&webp.fallback=png');
     width: 302px;
     height: 93px;
     position: absolute;
@@ -2282,7 +2282,7 @@ ul.minicart .cart-content a:hover,
     top: -10px;
 }
 .third-team-content .hover-bg {
-    background-image: url(../img/bg/team_content_hover_bg.png);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/team_content_hover_bg.png?format=webp&webp.fallback=png');
     width: 302px;
     height: 93px;
     position: absolute;
@@ -2328,7 +2328,7 @@ ul.minicart .cart-content a:hover,
     margin-bottom: -150px;
 }
 .game-gallery-bg {
-    background-image: url(../img/bg/game_gallery_bg.png);
+    background-image: url('https://fieryper.sirv.com/gamenation/bg/game_gallery_bg.png?format=webp&webp.fallback=png');
     background-position: top center;
     background-size: cover;
     position: absolute;
@@ -2406,7 +2406,7 @@ ul.minicart .cart-content a:hover,
 
 /* 14. Just-gamers */
 .just-gamers-bg {
-	background-image: url(../img/bg/just_gamer_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/just_gamer_bg.jpg?format=webp&webp.fallback=jpg');
 	position: relative;
 	background-position: center;
 	background-size: cover;
@@ -2418,7 +2418,7 @@ ul.minicart .cart-content a:hover,
 	position: absolute;
 	left: 0;
 	right: 0;
-	background-image: url(../img/images/gamers_bg_conve01.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/images/gamers_bg_conve01.png?format=webp&webp.fallback=png');
 	width: 467px;
 	height: 169px;
 	margin: 0 auto;
@@ -2431,7 +2431,7 @@ ul.minicart .cart-content a:hover,
 	position: absolute;
 	left: 0;
 	right: 0;
-	background-image: url(../img/images/gamers_bg_conve02.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/images/gamers_bg_conve02.png?format=webp&webp.fallback=png');
 	width: 420px;
 	height: 152px;
 	margin: 0 auto;
@@ -2446,7 +2446,7 @@ ul.minicart .cart-content a:hover,
 	color: #cbcbcb;
 }
 .title-style-three.white-title::before {
-	background-image: url(../img/images/title_bar03.png);
+	background-image: url('https://fieryper.sirv.com/gamenation/images/title_bar03.png?format=webp&webp.fallback=png');
 }
 .just-gamers-list ul li {
 	margin-bottom: 40px;
@@ -2455,7 +2455,7 @@ ul.minicart .cart-content a:hover,
 }
 .just-gamers-list-icon {
 	float: left;
-	background-image: url(../img/bg/gamer_list_icon_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/gamer_list_icon_bg.jpg?format=webp&webp.fallback=jpg');
 	width: 97px;
 	height: 97px;
 	text-align: center;
@@ -2508,7 +2508,7 @@ ul.minicart .cart-content a:hover,
 
 /* 15. Features */
 .features-bg {
-	background-image: url(../img/bg/features_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/features_bg.jpg?format=webp&webp.fallback=jpg');
 	background-position: center;
 	background-size: cover;
 }
@@ -2698,7 +2698,7 @@ ul.minicart .cart-content a:hover,
 	transform: translateY(0px);
 }
 .upcoming-games-bg {
-	background-image: url(../img/bg/upc_game_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/upc_game_bg.jpg?format=webp&webp.fallback=jpg');
 	background-position: center;
 	background-size: cover;
 }
@@ -3155,7 +3155,7 @@ ul.minicart .cart-content a:hover,
 	transition: .3s linear;
 }
 .third-contact-bg {
-	background-image: url(../img/bg/third_contact_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/third_contact_bg.jpg?format=webp&webp.fallback=jpg');
 	background-position: center;
 	background-size: cover;
 	padding: 120px 0;
@@ -3321,7 +3321,7 @@ ul.minicart .cart-content a:hover,
 
 /* 26. Footer */
 .footer-bg {
-	background-image: url(../img/bg/footer_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/footer_bg.jpg?format=webp&webp.fallback=jpg');
 	background-color: #f9f9f9;
 	background-position: top center;
 	background-size: cover;
@@ -3330,7 +3330,7 @@ ul.minicart .cart-content a:hover,
 	z-index: 1;
 }
 .third-footer-bg {
-	background-image: url(../img/bg/t_footer_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/t_footer_bg.jpg?format=webp&webp.fallback=jpg');
 	padding-top: 90px;
 	padding-bottom: 40px;
 }
@@ -3461,7 +3461,7 @@ ul.minicart .cart-content a:hover,
 	font-weight: 500;
 }
 .s-footer-bg {
-	background-image: url(../img/bg/s_footer_bg.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/s_footer_bg.jpg');
 }
 .s-footer-bg .fw-title h5 {
 	font-size: 16px;
@@ -3675,338 +3675,6 @@ ul.minicart .cart-content a:hover,
 	color: #fa0101;
 }
 
-/* live-streaming */
-.live-streaming-area {
-    background-image: url(../img/bg/streaming_bg.jpg);
-    background-position: center;
-    background-size: cover;
-    padding: 84px 0 50px;
-	position: relative;
-	overflow: hidden;
-}
-.live-streaming-area::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    width: 1200px;
-    height: 4px;
-    background: #fa0101;
-    top: 0;
-    margin: 0 auto;
-}
-.live-stream-item .thumb {
-	position: relative;
-}
-.live-stream-item .thumb::before {
-	content: "";
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	height: 100%;
-    background: #544a7d;
-	background: -webkit-linear-gradient(to bottom, transparent, #111111);
-	background: linear-gradient(to bottom, transparent, #111111);
-	opacity: .52;
-}
-.live-stream-item .thumb img {
-    max-width: 100%;
-}
-.live-stream-item .content {
-    position: absolute;
-    left: 35px;
-    bottom: 35px;
-    width: 60%;
-    z-index: 1;
-}
-.live-stream-meta {
-    margin-bottom: 10px;
-}
-.live-stream-meta ul {
-    display: flex;
-    align-items: center;
-}
-.live-stream-meta ul li {
-	color: #fff;
-	margin-right: 14px;
-	font-size: 12px;
-	font-weight: 700;
-	text-transform: uppercase;
-}
-.live-stream-meta ul li a {
-	display: block;
-    background: #c8ff0b;
-    color: #2a2c36;
-    padding: 5px 12px;
-    box-shadow: 0px 3px 10px 0px rgba(39, 39, 40, 0.36);
-    border-radius: 4px;
-}
-.live-stream-item .content .title {
-    font-size: 22px;
-    margin-bottom: 0;
-    font-family: 'Poppins', sans-serif;
-    line-height: 1.6;
-}
-.live-stream-item .content .title a:hover {
-	color: #fff;
-}
-.live-stream-item {
-    position: relative;
-}
-.live-stream-item .thumb .popup-video {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-}
-.live-stream-item.style-two .content .popup-video {
-    position: relative;
-    top: 0;
-    left: 0;
-    transform: translate(0);
-    display: inline-block;
-    margin-bottom: 30px;
-}
-.live-stream-item.style-two .content .title {
-    font-size: 20px;
-    line-height: 1.4;
-}
-.live-stream-item.style-two .content {
-    width: 73%;
-    left: 30px;
-    bottom: 20px;
-}
-.live-stream-item.style-two .live-stream-meta ul li a {
-	background: #ea8f00;
-	color: #fff;
-}
-.live-streaming-area [class*="col-"] .row [class*="col-"]:last-child .live-stream-item.style-two .live-stream-meta ul li a {
-	background: #007bff;
-}
-
-/* Latest-video */
-.latest-game-video-area {
-    background: #111111;
-    padding: 80px 0 25px;
-}
-
-.latest-games-active .slick-list {
-   margin: 0 -15px;
-}
-.latest-games-active .slick-slide{
-   padding-left:15px;
-   padding-right:15px;
-}
-
-/* Episodes */
-.game-episodes-area,
-.video-blog-area {
-	background: #111111;
-}
-.episodes-wrapper {
-    background: #1f1f1f;
-    padding: 45px 73px 55px;
-}
-.episodes-wrapper .hf-section-title .title {
-	font-size: 18px;
-}
-.episodes-wrapper .row {
-	margin-left: -10px;
-	margin-right: -10px;
-}
-.episodes-wrapper .row [class*="col-"] {
-	padding-left: 10px;
-	padding-right: 10px;
-}
-.game-episodes-item .thumb {
-	position: relative;
-}
-.game-episodes-item .thumb img {
-    max-width: 100%;
-    border-radius: 6px;
-}
-.game-episodes-item .episodes-tags {
-    position: absolute;
-    left: 24px;
-    top: 0;
-    z-index: 1;
-}
-.game-episodes-item .episodes-tags a {
-    display: block;
-    text-transform: uppercase;
-    font-size: 12px;
-    font-weight: 700;
-    color: #fff;
-    border-radius: 0px 0px 4px 4px;
-    background: #007bff;
-    padding: 3px 14px;
-    margin-right: 7px;
-}
-.game-episodes-item {
-    position: relative;
-}
-.game-episodes-item .content {
-    position: absolute;
-    left: 25px;
-    bottom: 20px;
-    right: 25px;
-    z-index: 1;
-}
-.game-episodes-item .content .date {
-    display: block;
-    text-transform: uppercase;
-    font-size: 12px;
-    font-weight: 600;
-    color: #fff;
-    margin-bottom: 4px;
-}
-.game-episodes-item .content .title {
-    font-size: 18px;
-    font-weight: 600;
-    font-family: 'Poppins', sans-serif;
-    margin-bottom: 0;
-    line-height: 1.5;
-}
-.game-episodes-item .content .title a:hover {
-	color: #fff;
-}
-.game-episodes-item .thumb::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-    background: #544a7d;
-    background: -webkit-linear-gradient(to bottom, transparent, #111111);
-    background: linear-gradient(to bottom, transparent, #111111);
-    opacity: .6;
-}
-.episodes-wrapper .row:last-child [class*="col-"]:nth-child(2) .game-episodes-item .episodes-tags a {
-	background: #fa0101;
-}
-.episodes-wrapper .row:last-child [class*="col-"]:nth-child(3) .game-episodes-item .episodes-tags a {
-	background: #ea8f00;
-}
-.game-episodes-active .slick-dots {
-    display: flex;
-	align-items: center;
-    position: absolute;
-    right: 10px;
-    top: -45px;
-	line-height: 0;
-}
-.game-episodes-active .slick-dots li {
-	line-height: 0;
-}
-.game-episodes-active .slick-dots li + li {
-	margin-left: 7px;
-}
-.game-episodes-active .slick-dots li button {
-    text-indent: -999999px;
-    border: none;
-    padding: 0;
-    width: 6px;
-    height: 6px;
-    line-height: 0;
-    background: #fa0101;
-    border-radius: 50%;
-    cursor: pointer;
-	opacity: .7;
-}
-.game-episodes-active .slick-dots li.slick-active button {
-    width: 10px;
-	height: 10px;
-	opacity: 1;
-}
-
-/* Blog */
-.video-blog-thumb {
-    position: relative;
-    margin-bottom: 20px;
-}
-.video-blog-thumb a {
-	display: block;
-	position: relative;
-}
-.video-blog-thumb a::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-    background: #544a7d;
-    background: -webkit-linear-gradient(to bottom, transparent, #111111);
-    background: linear-gradient(to bottom, transparent, #111111);
-	border-radius: 10px;
-    opacity: .64;
-}
-.video-blog-thumb img {
-    max-width: 100%;
-    border-radius: 10px;
-}
-.video-blog-meta ul {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-}
-.video-blog-meta ul li {
-    position: relative;
-    font-size: 13px;
-    font-weight: 500;
-    color: #ffffff;
-    margin-right: 15px;
-    padding-right: 15px;
-}
-.video-blog-meta ul li::after {
-	content: "|";
-	position: absolute;
-	right: -1px;
-	top: 50%;
-	transform: translateY(-50%);
-	color: #959393;
-}
-.video-blog-meta ul li:last-child {
-	padding-right: 0;
-	margin-right: 0;
-}
-.video-blog-meta ul li:last-child:after {
-	display: none;
-}
-.video-blog-meta ul li a {
-	color: #ffffff;
-}
-.video-blog-meta ul li i {
-	color: #919090;
-	font-size: 12px;
-	margin-right: 8px;
-}
-.video-blog-content .title {
-    font-size: 18px;
-    font-family: 'Poppins', sans-serif;
-    line-height: 1.5;
-    margin-bottom: 20px;
-    padding-right: 50px;
-}
-.video-blog-meta ul li a:hover {
-	color: #fa0101;
-}
-.video-blog-content .title a:hover {
-	color: #fff;
-}
-.video-blog-content .read-more {
-    font-size: 14px;
-    font-weight: 500;
-    color: #fa0101;
-}
-.video-blog-content .read-more i {
-	font-size: 12px;
-	color: #ffffff;
-	margin-left: 5px;
-}
 
 
 
@@ -4081,7 +3749,7 @@ ul.minicart .cart-content a:hover,
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../img/images/s_section_line.png);
+    background-image: url('https://fieryper.sirv.com/gamenation/images/s_section_line.png?format=webp&webp.fallback=png');
     width: 120px;
     height: 8px;
     margin: 0 auto;
@@ -4207,233 +3875,6 @@ ul.minicart .cart-content a:hover,
 }
 .gs-category-item.green-bg .content h4::before {
 	background: #fff;
-}
-
-/* makes-gaming-chair */
-.makes-gaming-chair {
-    background-image: url(../img/bg/makes_chair_bg.jpg);
-    background-position: center;
-    background-size: cover;
-    position: relative;
-    padding: 20px 0 20px;
-    z-index: 1;
-    overflow: hidden;
-}
-.makes-gaming-chair .game-shop-title .title {
-    color: #fff;
-    margin-bottom: 10px;
-}
-.makes-gaming-chair .game-shop-title .title > span {
-	color: #c8ff0b;
-}
-.makes-gaming-chair .game-shop-title p {
-    margin-bottom: 0;
-    padding-right: 50px;
-}
-.makes-gaming-chair .game-shop-title::after {
-    margin: 0;
-}
-.makes-gaming-chair .game-shop-title {
-    padding-bottom: 32px;
-}
-.makes-gaming-chair .just-gamers-list-icon {
-    background-image: none;
-    background: #21252c;
-    box-shadow: 0px 1px 13px 0px rgba(12, 11, 15, 0.61);
-}
-.makes-gaming-chair .just-gamers-list ul li:hover .just-gamers-list-icon {
-	border-color: #c8ff0b;
-}
-.makes-gaming-chair .just-gamers-list-content h5 {
-    font-weight: 600;
-}
-.makes-gaming-chair .chair-zoom {
-    position: absolute;
-    right: 0;
-    top: 23%;
-}
-.makes-gaming-chair .chair-chart {
-    position: absolute;
-    right: 5px;
-    bottom: 20%;
-    z-index: -1;
-}
-.makes-gaming-chair .main-chair {
-    display: block;
-}
-.makes-gaming-chair::before {
-    content: "";
-    position: absolute;
-    left: 46%;
-    top: 0;
-    background-image: url(../img/images/mgc_bg_conve01.png);
-    width: 420px;
-    height: 152px;
-    z-index: -1;
-}
-.makes-gaming-chair::after {
-    content: "";
-    position: absolute;
-    left: 46%;
-    bottom: 0;
-    background-image: url(../img/images/mgc_bg_conve02.png);
-    width: 420px;
-    height: 152px;
-	z-index: -1;
-}
-.gaming-chair-wrap {
-    position: relative;
-    height: 100%;
-}
-.makes-gaming-chair .just-gamers-list-content {
-    margin-right: 30px;
-}
-.gaming-chair-active {
-    height: 100%;
-    display: block;
-    position: relative;
-    margin-left: -30px;
-}
-
-/* Chair shop  */
-.chair-product-area {
-    padding: 110px 0 60px;
-}
-.chair-product-thumb {
-    position: relative;
-    margin-bottom: 25px;
-    overflow: hidden;
-}
-.chair-product-thumb .cart {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-    background: #c8ff0b;
-    font-size: 16px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: #1c1121;
-    text-align: center;
-    padding: 25px 55px;
-    line-height: 1;
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-    transform: translateY(20px);
-    opacity: 0;
-}
-.chair-product-thumb .cart i {
-	font-size: 13px;
-	margin-left: 9px;
-}
-.chair-product-thumb img {
-    max-width: 100%;
-}
-.chair-product-top-content {
-    display: flex;
-    align-items: flex-end;
-    border-bottom: 1.8px dashed #c5c2c6;
-    padding-bottom: 10px;
-}
-.chair-product-top-content .category {
-    display: block;
-    font-size: 13px;
-    text-transform: uppercase;
-    color: #6e6871;
-    letter-spacing: 1px;
-    margin-bottom: 5px;
-}
-.chair-product-top-content .title {
-    font-family: 'Poppins', sans-serif;
-    text-transform: uppercase;
-    color: #1c1121;
-    font-weight: 700;
-    margin-bottom: 0;
-	font-size: 18px;
-}
-.chair-product-top-content .title a:hover {
-	color: #1c1121;
-}
-.chair-product-top-content .main-content {
-	margin-right: 50px;
-}
-.chair-product-price {
-	margin-left: auto;
-}
-.chair-product-price .price {
-    color: #1c1121;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-    margin-bottom: 0;
-	font-size: 18px;
-}
-.chair-product-bottom {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 10px;
-}
-.chair-product-bottom .rating {
-    font-size: 13px;
-    color: #6e6871;
-}
-.chair-product-bottom .heart {
-	display: inline-block;
-	color: #6e6871;
-	font-size: 13px;
-}
-.chair-product-item:hover .chair-product-thumb .cart {
-	transform: translateY(0);
-	opacity: 1;
-}
-
-
-/* Chair-discount */
-.chair-discount-area {
-	position: relative;
-	overflow: hidden;
-}
-.chair-discount-area::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    background-image: url(../img/images/chair_discount_shape.png);
-    width: 1522px;
-    height: 100%;
-    margin: 0 auto;
-    background-repeat: no-repeat;
-    z-index: -1;
-}
-.chair-discount-area .game-shop-title {
-    padding-bottom: 30px;
-}
-.chair-discount-area .game-shop-title::after {
-    margin: 0;
-}
-.chair-discount-content p {
-    font-size: 14px;
-    line-height: 24px;
-    color: #8f8d8d;
-    margin-bottom: 35px;
-}
-.chair-discount-content .btn {
-    background: #1c1121;
-    color: #fff;
-    border-radius: 0;
-}
-.chair-discount-content .btn:hover {
-	background: #c8ff0b;
-	color: #1c1121;
-}
-.chair-discount-content .btn::before {
-	display: none;
-}
-.chair-discount-content {
-    margin-left: -30px;
-    margin-right: 30px;
 }
 
 /* Trend-news */
@@ -4651,7 +4092,7 @@ ul.minicart .cart-content a:hover,
 
 /* live-streaming */
 .live-streaming-two {
-	background-image: url(../img/bg/streaming_bg02.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/streaming_bg02.jpg?format=webp&webp.fallback=jpg');
 }
 .live-streaming-two::before {
 	background: #bcee0e;
@@ -4659,7 +4100,7 @@ ul.minicart .cart-content a:hover,
 
 /* Game News */
 .latest-game-news-area {
-	background-image: url(../img/bg/latest_game_news.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/bg/latest_game_news.jpg?format=webp&webp.fallback=jpg');
 	background-position: center;
 	background-size: cover;
 	padding: 80px 0 140px;
