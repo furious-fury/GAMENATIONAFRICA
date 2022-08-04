@@ -1321,22 +1321,22 @@ ul.minicart .cart-price .new {
 	z-index: 1;
 }
 .slider-1{
-	background-image: url(../img/slider/wildrift\ web.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/slider/wildrift%20web.jpg?format=webp&webp.fallback=jpg');
 }
 .slider-2{
-	background-image: url(../img/slider/LSEA.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/slider/LSEA.jpg?format=webp&webp.fallback=jpg');
 }
 .slider-3{
-	background-image: url(../img/slider/kumite\ web.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/slider/kumite%20web.jpg?format=webp&webp.fallback=jpg');
 }
 .slider-4{
-	background-image: url(../img/slider/MVM\ web.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/slider/MVM%20web.jpg?format=webp&webp.fallback=jpg');
 }
 .slider-5{
-	background-image: url(../img/slider/redbull\ meo\ web.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/slider/redbull%20meo%20web.jpg?format=webp&webp.fallback=jpg');
 }
 .slider-6{
-	background-image: url(../img/slider/best\ apex\ mobile\ players\ web.jpg);
+	background-image: url('https://fieryper.sirv.com/gamenation/slider/best%20apex%20mobile%20players%20web.jpg?format=webp&webp.fallback=jpg');
 }
 .slider-style .slider-content h6::before,
 .slider-style .slider-content h6::after {
