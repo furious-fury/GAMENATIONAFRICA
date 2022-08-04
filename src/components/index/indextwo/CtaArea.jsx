@@ -12,13 +12,13 @@ function CtaArea() {
               <div className="row align-items-center justify-content-between">
                 <div className="col-xl-5 col-lg-6">
                   <div className="cta-img">
-                    <img src="assets/img/images/cta_img.png" alt="" />
+                    <img src="https://fieryper.sirv.com/gamenation/images/cta_img.png?format=webp&webp.fallback=png" alt="" />
                   </div>
                 </div>
                 <div className="col-lg-6">
                   <div className="cta-content">
                     <div className="cta-icon mb-15">
-                      <img src="assets/img/icon/cta_icon.png" alt="" />
+                      <img src="https://fieryper.sirv.com/gamenation/icon/cta_icon.png?format=webp&webp.fallback=png" alt="" />
                     </div>
                     <div className="section-title title-style-three white-title mb-50">
                       <h2>WORLDS MEET <span>Real</span></h2>

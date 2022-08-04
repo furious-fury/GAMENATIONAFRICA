@@ -37,7 +37,7 @@ function NewGamesArea() {
                       <div className="released-game-item">
                         <div className="released-game-item-bg" />
                         <div className="released-game-img">
-                          <img src="assets/img/images/released_game_img01.jpg" alt="" />
+                          <img src="https://fieryper.sirv.com/gamenation/images/released_game_img01.jpg?format=webp&webp.fallback=png" alt="" />
                         </div>
                         <div className="released-game-content">
                           <h4>APEX <span>LEGENDS</span></h4>
@@ -58,7 +58,7 @@ function NewGamesArea() {
                       <div className="released-game-item">
                         <div className="released-game-item-bg" />
                         <div className="released-game-img">
-                          <img src="assets/img/images/released_game_img02.jpg" alt="" />
+                          <img src="https://fieryper.sirv.com/gamenation/images/released_game_img02.jpg?format=webp&webp.fallback=png" alt="" />
                         </div>
                         <div className="released-game-content">
                           <h4>PUBG <span>MOBILE</span></h4>
@@ -79,7 +79,7 @@ function NewGamesArea() {
                       <div className="released-game-item">
                         <div className="released-game-item-bg" />
                         <div className="released-game-img">
-                          <img src="assets/img/images/released_game_img03.jpg" alt="" />
+                          <img src="https://fieryper.sirv.com/gamenation/images/released_game_img03.jpg?format=webp&webp.fallback=png" alt="" />
                         </div>
                         <div className="released-game-content">
                           <h4>CALL <span>OF DUTY</span></h4>
@@ -100,7 +100,7 @@ function NewGamesArea() {
                       <div className="released-game-item">
                         <div className="released-game-item-bg" />
                         <div className="released-game-img">
-                          <img src="assets/img/images/released_game_img04.jpg" alt="" />
+                          <img src="https://fieryper.sirv.com/gamenation/images/released_game_img04.jpg?format=webp&webp.fallback=png" alt="" />
                         </div>
                         <div className="released-game-content">
                           <h4>VAL<span>ORANT</span></h4>
@@ -126,16 +126,16 @@ function NewGamesArea() {
                   focusOnSelect={true}
                   ref={slider => (slider2 = slider)} slidesToShow={3} vertical={true} arrows={false} >
                     <div className="released-game-nav-item">
-                      <img src="assets/img/images/release_game_nav01.jpg" alt="" />
+                      <img src="https://fieryper.sirv.com/gamenation/images/release_game_nav01.jpg?format=webp&webp.fallback=png" alt="" />
                     </div>
                     <div className="released-game-nav-item">
-                      <img src="assets/img/images/release_game_nav02.jpg" alt="" />
+                      <img src="https://fieryper.sirv.com/gamenation/images/release_game_nav02.jpg?format=webp&webp.fallback=png" alt="" />
                     </div>
                     <div className="released-game-nav-item">
-                      <img src="assets/img/images/release_game_nav03.jpg" alt="" />
+                      <img src="https://fieryper.sirv.com/gamenation/images/release_game_nav03.jpg?format=webp&webp.fallback=png" alt="" />
                     </div>
                     <div className="released-game-nav-item">
-                      <img src="assets/img/images/release_game_nav04.jpg" alt="" />
+                      <img src="https://fieryper.sirv.com/gamenation/images/release_game_nav04.jpg?format=webp&webp.fallback=png" alt="" />
                     </div>
                   </Slider>
                 </div>
